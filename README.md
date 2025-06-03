@@ -35,3 +35,8 @@
 - [PartyRock, for playing with chatbots for free](https://partyrock.aws)
 - [Sagemaker studio lab, to play for free with sagemaker models](https://studiolab.sagemaker.aws/)
 - [Docs on Sagemaker studio lab](https://docs.aws.amazon.com/sagemaker/latest/dg/studio-lab.html)
+- [Lambda functions to handle fulfillment of agent actions](https://docs.aws.amazon.com/bedrock/latest/userguide/action-handle.html)
+- Vector databases
+  - [Azure list of open source vector databases](https://learn.microsoft.com/en-us/azure/cosmos-db/mongodb/vcore/vector-search-ai)
+  - [AWS info on vector databases, and how their own services can be used to store vector data](https://aws.amazon.com/what-is/vector-databases/)
+  - [FAISS, an open source vector DB from Facebook](https://github.com/facebookresearch/faiss)
