@@ -45,3 +45,4 @@
 - [AWS Shared responsibility model](https://aws.amazon.com/compliance/shared-responsibility-model/)
 - [Bedrock pricing](https://aws.amazon.com/bedrock/pricing/)
 - [Provisioned throughput with bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/prov-throughput.html)
+- [Stable diffusion image generation algorithm, created in a research facility in a German university](https://www.lmu.de/en/newsroom/news-overview/news/revolutionizing-image-generation-by-ai-turning-text-into-images.html) 
