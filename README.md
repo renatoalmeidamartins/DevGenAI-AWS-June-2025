@@ -40,6 +40,7 @@
   - [Azure list of open source vector databases](https://learn.microsoft.com/en-us/azure/cosmos-db/mongodb/vcore/vector-search-ai)
   - [AWS info on vector databases, and how their own services can be used to store vector data](https://aws.amazon.com/what-is/vector-databases/)
   - [FAISS, an open source vector DB from Facebook](https://github.com/facebookresearch/faiss)
+  - [Blog article using OpenSearch as a vector database](https://aws.amazon.com/blogs/big-data/amazon-opensearch-services-vector-database-capabilities-explained/)
 - [Kendra genAI indexes](https://aws.amazon.com/blogs/machine-learning/introducing-amazon-kendra-genai-index-enhanced-semantic-search-and-retrieval-capabilities/)
 - [Kendra genAI supported data sources](https://docs.aws.amazon.com/kendra/latest/dg/hiw-data-source.html)
 - [AWS Shared responsibility model](https://aws.amazon.com/compliance/shared-responsibility-model/)
@@ -49,3 +50,7 @@
 - Prompting best practices vary by model. Tipically, [here](https://docs.aws.amazon.com/bedrock/latest/userguide/model-parameters.html) is a starting point. In that link, you will find each model inference parameters, along with links for prompting techniques for that family of models. Two examples below:
   - [Nova prompting guide](https://docs.aws.amazon.com/nova/latest/userguide/prompting.html)
   - [Titan text prompting guide](https://docs.aws.amazon.com/bedrock/latest/userguide/model-parameters-titan-text.html)
+- [Using models to evaluate other models](https://aws.amazon.com/blogs/machine-learning/llm-as-a-judge-on-amazon-bedrock-model-evaluation/)
+- [Frameworks for benchmarking LLMs](https://www.ibm.com/think/topics/llm-benchmarks)
+- [Evaluating prompts at scale](https://aws.amazon.com/blogs/machine-learning/evaluating-prompts-at-scale-with-prompt-management-and-prompt-flows-for-amazon-bedrock/)
+- [Track LLM model evaluation using MLFlow and FMEval](https://aws.amazon.com/blogs/machine-learning/track-llm-model-evaluation-using-amazon-sagemaker-managed-mlflow-and-fmeval/)
