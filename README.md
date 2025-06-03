@@ -18,3 +18,4 @@
 - [AWS investments in custom AI chips](https://www.aboutamazon.com/news/aws/amazon-trainium-investment-university-ai-research)
 - [Internal docs about Traininum, AWS chip for ML training](https://awsdocs-neuron.readthedocs-hosted.com/en/latest/general/arch/neuron-hardware/trainium.html)
 - [Inferentia, AWS custom-made chip for inferencing](https://docs.aws.amazon.com/dlami/latest/devguide/tutorial-inferentia.html)
+- [In the past, AWS offered elastic GPUs](https://aws.amazon.com/blogs/aws/new-ec2-elastic-gpus-for-windows/)
