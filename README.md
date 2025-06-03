@@ -22,4 +22,9 @@
 - [6 Rs of application migration](https://aws.amazon.com/blogs/enterprise-strategy/6-strategies-for-migrating-applications-to-the-cloud/)
 - [Llama model leak into 4chan](https://www.theverge.com/2023/3/8/23629362/meta-ai-language-model-llama-leak-online-misuse)
 - [Responsible Ai](https://aws.amazon.com/ai/responsible-ai/policy/)
-
+- Some examples of models harming people:
+  - https://www.tradingview.com/news/cointelegraph:0909bdece094b:0-researchers-hack-ai-enabled-robots-to-cause-real-world-harm/
+  - https://www.tomshardware.com/tech-industry/artificial-intelligence/researchers-jailbreak-ai-robots-to-run-over-pedestrians-place-bombs-for-maximum-damage-and-covertly-spy
+  - https://unit42.paloaltonetworks.com/new-frontier-of-genai-threats-a-comprehensive-guide-to-prompt-attacks/
+  - https://www.wired.com/story/researchers-llm-ai-robot-violence/
+- [Jailbreaking model research](https://unit42.paloaltonetworks.com/jailbreaking-generative-ai-web-products/)
