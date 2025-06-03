@@ -20,4 +20,4 @@
 - [Inferentia, AWS custom-made chip for inferencing](https://docs.aws.amazon.com/dlami/latest/devguide/tutorial-inferentia.html)
 - [In the past, AWS offered elastic GPUs](https://aws.amazon.com/blogs/aws/new-ec2-elastic-gpus-for-windows/)
 - [6 Rs of application migration](https://aws.amazon.com/blogs/enterprise-strategy/6-strategies-for-migrating-applications-to-the-cloud/)
-- [Lllama model leak into 4chan](https://www.theverge.com/2023/3/8/23629362/meta-ai-language-model-llama-leak-online-misuse)
+- [Llama model leak into 4chan](https://www.theverge.com/2023/3/8/23629362/meta-ai-language-model-llama-leak-online-misuse)
