@@ -42,3 +42,4 @@
   - [FAISS, an open source vector DB from Facebook](https://github.com/facebookresearch/faiss)
 - [Kendra genAI indexes](https://aws.amazon.com/blogs/machine-learning/introducing-amazon-kendra-genai-index-enhanced-semantic-search-and-retrieval-capabilities/)
 - [Kendra genAI supported data sources](https://docs.aws.amazon.com/kendra/latest/dg/hiw-data-source.html)
+- [AWS Shared responsibility model](https://aws.amazon.com/compliance/shared-responsibility-model/)
