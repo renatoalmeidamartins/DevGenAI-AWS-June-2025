@@ -40,3 +40,5 @@
   - [Azure list of open source vector databases](https://learn.microsoft.com/en-us/azure/cosmos-db/mongodb/vcore/vector-search-ai)
   - [AWS info on vector databases, and how their own services can be used to store vector data](https://aws.amazon.com/what-is/vector-databases/)
   - [FAISS, an open source vector DB from Facebook](https://github.com/facebookresearch/faiss)
+- [Kendra genAI indexes](https://aws.amazon.com/blogs/machine-learning/introducing-amazon-kendra-genai-index-enhanced-semantic-search-and-retrieval-capabilities/)
+- [Kendra genAI supported data sources](https://docs.aws.amazon.com/kendra/latest/dg/hiw-data-source.html)
