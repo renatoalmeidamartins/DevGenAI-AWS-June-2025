@@ -55,3 +55,4 @@
 - [Evaluating prompts at scale](https://aws.amazon.com/blogs/machine-learning/evaluating-prompts-at-scale-with-prompt-management-and-prompt-flows-for-amazon-bedrock/)
 - [Track LLM model evaluation using MLFlow and FMEval](https://aws.amazon.com/blogs/machine-learning/track-llm-model-evaluation-using-amazon-sagemaker-managed-mlflow-and-fmeval/)
 -  [Prompt engineering guide](https://www.promptingguide.ai/)
+-  [Frameworks for reducing prompt ambiguity on text-to-image models](amazon.science/publications/resolving-ambiguities-in-text-to-image-generative-models)
