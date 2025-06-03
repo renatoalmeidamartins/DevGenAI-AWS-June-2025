@@ -28,4 +28,4 @@
   - https://unit42.paloaltonetworks.com/new-frontier-of-genai-threats-a-comprehensive-guide-to-prompt-attacks/
   - https://www.wired.com/story/researchers-llm-ai-robot-violence/
 - [Jailbreaking model research](https://unit42.paloaltonetworks.com/jailbreaking-generative-ai-web-products/)
-- - [Transformers in neural networks](https://aws.amazon.com/what-is/transformers-in-artificial-intelligence/)
+- [Transformers in neural networks](https://aws.amazon.com/what-is/transformers-in-artificial-intelligence/)
