@@ -15,3 +15,6 @@
 - [Perceptron](https://en.wikipedia.org/wiki/Perceptron)
 - [Neural network zoo](https://www.asimovinstitute.org/neural-network-zoo/)
 - [Sagemaker built-in algorithms](https://docs.aws.amazon.com/sagemaker/latest/dg/algos.html)
+- [AWS investments in custom AI chips](https://www.aboutamazon.com/news/aws/amazon-trainium-investment-university-ai-research)
+- [Internal docs about Traininum, AWS chip for ML training](https://awsdocs-neuron.readthedocs-hosted.com/en/latest/general/arch/neuron-hardware/trainium.html)
+- [Inferentia, AWS custom-made chip for inferencing](https://docs.aws.amazon.com/dlami/latest/devguide/tutorial-inferentia.html)
