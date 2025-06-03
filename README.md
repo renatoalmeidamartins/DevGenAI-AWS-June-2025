@@ -34,3 +34,4 @@
 - [Macie is a good service for identifying PII](https://docs.aws.amazon.com/macie/latest/user/data-classification.html)
 - [PartyRock, for playing with chatbots for free](partyrock.aws)
 - [Sagemaker studio lab, to play for free with sagemaker models](https://studiolab.sagemaker.aws/)
+- [Docs on Sagemaker studio lab](https://docs.aws.amazon.com/sagemaker/latest/dg/studio-lab.html)
