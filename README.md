@@ -43,3 +43,5 @@
 - [Kendra genAI indexes](https://aws.amazon.com/blogs/machine-learning/introducing-amazon-kendra-genai-index-enhanced-semantic-search-and-retrieval-capabilities/)
 - [Kendra genAI supported data sources](https://docs.aws.amazon.com/kendra/latest/dg/hiw-data-source.html)
 - [AWS Shared responsibility model](https://aws.amazon.com/compliance/shared-responsibility-model/)
+- [Bedrock pricing](https://aws.amazon.com/bedrock/pricing/)
+- [Provisioned throughput with bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/prov-throughput.html)
