@@ -31,3 +31,4 @@
 - [Transformers in neural networks](https://aws.amazon.com/what-is/transformers-in-artificial-intelligence/)
 - [Quotas for Bedrock](https://docs.aws.amazon.com/general/latest/gr/bedrock.html#limits_bedrock)
 - [Model availability by region for Bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/models-regions.html)
+- [Macie is a good service for identifying PII](https://docs.aws.amazon.com/macie/latest/user/data-classification.html)
