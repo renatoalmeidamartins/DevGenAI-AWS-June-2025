@@ -29,3 +29,5 @@
   - https://www.wired.com/story/researchers-llm-ai-robot-violence/
 - [Jailbreaking model research](https://unit42.paloaltonetworks.com/jailbreaking-generative-ai-web-products/)
 - [Transformers in neural networks](https://aws.amazon.com/what-is/transformers-in-artificial-intelligence/)
+- [Quotas for Bedrock](https://docs.aws.amazon.com/general/latest/gr/bedrock.html#limits_bedrock)
+- [Model availability by region for Bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/models-regions.html)
