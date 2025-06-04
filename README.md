@@ -56,3 +56,6 @@
 - [Track LLM model evaluation using MLFlow and FMEval](https://aws.amazon.com/blogs/machine-learning/track-llm-model-evaluation-using-amazon-sagemaker-managed-mlflow-and-fmeval/)
 -  [Prompt engineering guide](https://www.promptingguide.ai/)
 -  [Frameworks for reducing prompt ambiguity on text-to-image models](amazon.science/publications/resolving-ambiguities-in-text-to-image-generative-models)
+## Day 2 links
+- [Redshift ML](https://docs.aws.amazon.com/redshift/latest/dg/machine_learning.html)
+- [Sagemaker SDK](https://sagemaker.readthedocs.io/en/stable/api/index.html)
