@@ -3,6 +3,12 @@
 - [Landing URL, from where the meeting can be launched](https://classrooms.aws.training)
 - Meeting information for dialing in [(screenshot)](https://github.com/user-attachments/assets/4df0525e-dec2-48ea-b568-e50badaf3637)
 
+## Class evaluation
+- Go to [aws.training](https://www.aws.training/)
+- Click sign in, log in with the same account you used to access the lab and course materials
+- Then go on the top right to My Account, then transcript, click on the Archived section (direct link [https://www.aws.training/Account/Transcript/Archived](https://www.aws.training/Account/Transcript/Archived)
+- You should see the class, with a button to evaluate
+
 ## Supporting materials
 - [AWS Skill builder](https://skillbuilder.aws/)
 - [AWS technical essentials](https://explore.skillbuilder.aws/learn/courses/1851/aws-technical-essentials)
