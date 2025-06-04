@@ -82,3 +82,4 @@
 - [MCP - Model Context Protocol](https://modelcontextprotocol.io/introduction)
   - [Official implementations of servers](https://github.com/modelcontextprotocol/servers?tab=readme-ov-file#%EF%B8%8F-official-integrations)
   - [List of clients](https://modelcontextprotocol.io/clients)
+- [Examples with the Converse Bedrock API](https://docs.aws.amazon.com/bedrock/latest/userguide/conversation-inference-examples.html) - the last task of the last modules supposedly would use this, but it was not there.
