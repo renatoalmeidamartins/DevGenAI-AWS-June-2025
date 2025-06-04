@@ -63,3 +63,5 @@
 - [Supported foundation models, a good place to get the model ids](https://docs.aws.amazon.com/bedrock/latest/userguide/models-supported.html)
 - Sample code to programatically list the model names and ids  
 ```aws bedrock list-foundation-models --query 'modelSummaries[*].[modelName,modelId]' --output table```
+- [bedrock-runtime CLI commands](https://docs.aws.amazon.com/cli/latest/reference/bedrock-runtime/): be aware that this is one of the very few CLI implementations that is omitting some of the API actions. The *Stream are missing (probably because it is hard to consume streams in a shell, and the usefulness of such scenario is limited)
+- [Bedrock Runtime API spec](https://docs.aws.amazon.com/bedrock/latest/APIReference/API_Operations_Amazon_Bedrock_Runtime.html)
