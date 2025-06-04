@@ -60,3 +60,4 @@
 - [Redshift ML](https://docs.aws.amazon.com/redshift/latest/dg/machine_learning.html)
 - [Sagemaker SDK](https://sagemaker.readthedocs.io/en/stable/api/index.html)
 - [Inference parameters for all models](https://docs.aws.amazon.com/bedrock/latest/userguide/model-parameters.html)
+- [Supported foundation models, a good place to get the model ids](https://docs.aws.amazon.com/bedrock/latest/userguide/models-supported.html)
