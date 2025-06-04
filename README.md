@@ -76,5 +76,7 @@
 - [End-to-end example of RAG using LangChain](https://python.langchain.com/docs/how_to/qa_sources/) - keep in mind that by going to the ["How-to guides"](https://python.langchain.com/docs/how_to/), ["Tutorials"](https://python.langchain.com/docs/tutorials/) and ["Integrations"](https://python.langchain.com/docs/integrations/providers/) sections, there is usually a lot of examples to adapt.
 - Interesting alternatives to LangChain
   - [Semantic Kernel](https://github.com/microsoft/semantic-kernel)
+  - [Connecting Semantic Kernel to Bedrock](https://devblogs.microsoft.com/semantic-kernel/introducing-aws-bedrock-with-semantic-kernel/)
   - [Prompt Flow](https://github.com/microsoft/promptflow)
+  - [CrewAI](https://github.com/crewAIInc/crewAI)
 - 
