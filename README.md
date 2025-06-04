@@ -79,4 +79,6 @@
   - [Connecting Semantic Kernel to Bedrock](https://devblogs.microsoft.com/semantic-kernel/introducing-aws-bedrock-with-semantic-kernel/)
   - [Prompt Flow](https://github.com/microsoft/promptflow)
   - [CrewAI](https://github.com/crewAIInc/crewAI)
-- 
+- [MCP - Model Context Protocol](https://modelcontextprotocol.io/introduction)
+  - [Official implementations of servers](https://github.com/modelcontextprotocol/servers?tab=readme-ov-file#%EF%B8%8F-official-integrations)
+  - [List of clients](https://modelcontextprotocol.io/clients)
